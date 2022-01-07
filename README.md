@@ -1,4 +1,4 @@
-### Hi there 👋
+![zestzero's github stats](https://github-readme-stats.vercel.app/api?username=zestzero&show_icons=true&theme=dracula)
 
 <!--
 **zestzero/zestzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
