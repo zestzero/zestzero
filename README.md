@@ -6,7 +6,7 @@
   - DB: MSSQL, MySQL
 - 🌱 I’m currently learning
   - Client: React-query, Zustand, Redux-toolkit
-  - Server: Nest.js
+  - Server: Bun/Elysia
   - DB: PostgresQL
   - Advanced System Design:
     - Recommend resource: https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo
