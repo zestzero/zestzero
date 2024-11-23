@@ -1,16 +1,16 @@
 # Krit Bannachaisirisuk 🇹🇭 (zestzero)
 
 - 🔭 I’m currently working on
-  - Client: React.js, Redux.js, TailwindCSS
+  - Client: React.js, Jotai, TailwindCSS, Shadcn
   - Server: .NET Core, Node.js, Next.js, Laravel, GraphQL
-  - DB: MSSQL, MySQL
+  - DB: MSSQL, MySQL, PostgresQL
 - 🌱 I’m currently learning
-  - Client: React-query, Zustand, Redux-toolkit
-  - Server: Bun/Elysia
+  - Client: Solidjs/Jotai
+  - Server: Rust
   - DB: PostgresQL
+  - AI: Local LLM + RAG 
   - Advanced System Design:
     - Recommend resource: https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo
-  - Kubernetes
 - 📫 How to reach me: https://www.linkedin.com/in/krit-bannachaisirisuk/
 - ⚡ Fun fact:
   - Apex Noob Player
